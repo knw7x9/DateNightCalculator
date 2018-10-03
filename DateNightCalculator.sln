@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateNightCalculator", "DateNightCalculator\DateNightCalculator.csproj", "{4649024F-919E-4BDF-8BF0-DE249B79CF1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4649024F-919E-4BDF-8BF0-DE249B79CF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4649024F-919E-4BDF-8BF0-DE249B79CF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4649024F-919E-4BDF-8BF0-DE249B79CF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4649024F-919E-4BDF-8BF0-DE249B79CF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD30F527-B5B0-4187-A72E-59BB37CF0EFB}
+	EndGlobalSection
+EndGlobal
